@@ -1,0 +1,20 @@
+/*  Saskia Valstar
+    11423404/
+
+svg
+{
+  color: steelblue;
+  fill: currentColor;
+}
+
+body {
+padding:2em;
+}
+
+rect {
+fill:#FFFFFF;
+}
+svg div {
+text-align:left;
+line-height:150px;
+}
