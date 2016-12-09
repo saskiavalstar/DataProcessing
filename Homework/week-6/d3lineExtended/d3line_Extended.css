@@ -1,0 +1,37 @@
+body {
+    font: 12px Arial;
+}
+
+.line {
+    stroke: Olive;
+    stroke-width: 1.5;
+    fill: none;
+}
+
+.line2 {
+    stroke: Teal;
+    stroke-width: 1.5;
+    fill: none;
+}
+
+.line3 {
+    stroke: MidnightBlue;
+    stroke-width: 1.5;
+    fill: none;
+}
+.axis path,
+.axis line {
+    fill: none;
+    stroke: grey;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+}
+
+.dot {
+    fill: Salmon;
+
+}
+
+.dot:hover{
+    fill: DarkSalmon;
+}
