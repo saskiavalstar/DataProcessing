@@ -1,0 +1,10 @@
+Met deze webpagina wil ik een overview geven van hoe gelukkig de wereld is. Ieder land krijgt een kleur en hoe donkerder groen de kleur is,
+hoe gelukkiger de bevolking is. Ik heb voor de kleur groen gekozen omdat dat een vrij neutrale, maar toch vrolijke kleur is. Dus hopelijk associërt het publiek
+een donkerdere groen ook met meer geluk.
+
+In de scatterplot daaronder probeerde ik te onderzoeken of "geld gelukkig maakt" door het GDP (ofwel de koopkracht) tegen de score van de
+happy index te zetten. Hier was niet een heel sterk verband te zien.
+
+Het is mij helaas niet gelukt om een link te maken tussen beide grafieken. Het is mij ook niet gelukt om met scale.linear mijn data te verdelen,
+daarom moest ik handmatig de legenda implementeren. Is er tijdens het programmeerproject nog de gelegenheid om te vragen hoe ik die scale.linear en de legenda in orde krijg?
+Hier liep ik namelijk vaker tegenaan. :)
